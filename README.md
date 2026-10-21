@@ -2,6 +2,15 @@
 
 > A web-based astronomy tool that estimates how many galaxies lie behind a small patch of sky.
 
+## Table of Contents
+
+- #project-overview
+- #the-core-idea
+- #how-it-works
+- #important-notes
+- #data-sources
+- #design-goals
+
 ---
 
 # Project Overview
