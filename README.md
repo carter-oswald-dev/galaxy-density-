@@ -109,3 +109,4 @@ Future versions may use one or more of these datasets to create pre-computed gal
 - Support future integration of pre-computed sky-density maps while remaining fully compatible with GitHub Pages.
 
 ---
+
